@@ -1,0 +1,33 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphics.Core", "Graphics.Core\Graphics.Core.csproj", "{1E2E8F2E-62C4-45B7-A4B9-1F3A6F1A5E00}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphics.Demo", "Graphics.Demo\Graphics.Demo.csproj", "{B5F7F9D2-CCB7-4C0C-9A7E-3B1E3C3F2D10}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphics.Tests", "Graphics.Tests\Graphics.Tests.csproj", "{6A9F7B6F-9C41-4A5D-9B5D-4D1F5F1E2C33}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1E2E8F2E-62C4-45B7-A4B9-1F3A6F1A5E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E2E8F2E-62C4-45B7-A4B9-1F3A6F1A5E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E2E8F2E-62C4-45B7-A4B9-1F3A6F1A5E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E2E8F2E-62C4-45B7-A4B9-1F3A6F1A5E00}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5F7F9D2-CCB7-4C0C-9A7E-3B1E3C3F2D10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F7F9D2-CCB7-4C0C-9A7E-3B1E3C3F2D10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F7F9D2-CCB7-4C0C-9A7E-3B1E3C3F2D10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F7F9D2-CCB7-4C0C-9A7E-3B1E3C3F2D10}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A9F7B6F-9C41-4A5D-9B5D-4D1F5F1E2C33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A9F7B6F-9C41-4A5D-9B5D-4D1F5F1E2C33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A9F7B6F-9C41-4A5D-9B5D-4D1F5F1E2C33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A9F7B6F-9C41-4A5D-9B5D-4D1F5F1E2C33}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

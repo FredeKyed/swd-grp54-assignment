@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Graphics.Demo": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "debuggerType": "coreclr"
+    }
+  }
+}
